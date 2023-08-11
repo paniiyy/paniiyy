@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paniiyy
 - 👀 I’m interested in dance
-- 🌱 I’m currently learning pjbl
-- 💞️ I’m looking to collaborate on with pjbl
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on with you
 - 📫 How to reach me whatshapp
 
 <!---
